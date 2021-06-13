@@ -1,0 +1,58 @@
+.header1{
+	font: fantasy; color: darkblue; border: solid; border-color: black; text-align: center; background-color: lightyellow;
+}
+.head{
+	min-height: 100px;
+	background-color: darksalmon;
+	text-align: center;
+	font-size: 70px;
+	border: solid floralwhite 10px;
+	border-radius: 10px;
+	font-family: Agency FB;
+}
+body{
+	background-color: navy;
+}
+.wrapper{
+	overflow: hidden;
+	border: solid 1px ;
+	background-color: floralwhite;
+	font-size: 25px;
+	text-align: center;
+}
+.part1{
+	float: left;
+	min-height: 200px;
+	background-color: lightpink;
+	width: 25%;
+
+}
+.part2{
+	float: left;
+    min-height: 200px;
+    background-color: lightgray;
+    width: 25%
+}
+.part3{
+	float: left;
+    min-height: 200px;
+    background-color: lavender;
+    width: 25%
+
+}
+.part4{
+	float: left;
+    min-height: 200px;
+    background-color: papayawhip;
+    width: 25%
+}
+.foot{
+	min-height: 100px;
+	background-color: skyblue;
+	text-align: center;
+	font-size: 60px;
+	border: solid floralwhite 10px;
+	border-radius: 10px;
+	font-family: Agency FB;
+
+}
